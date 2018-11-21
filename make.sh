@@ -1,0 +1,1 @@
+gcc -mcmodel=medium -o simulator.o cache-simulator.c -lm
